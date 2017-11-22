@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "595753582109",
+    "firebase_url": "https://skillbook-app.firebaseio.com",
+    "project_id": "skillbook-app",
+    "storage_bucket": "skillbook-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595753582109:android:f0741664fcc10a67",
+        "android_client_info": {
+          "package_name": "com.project1.softwaresoluitons.xyz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595753582109-ok9n52tv95igu2bcavpl5upd5kqjvan6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project1.softwaresoluitons.xyz",
+            "certificate_hash": "fa4d173afab97a331173d1c3b28e81a118584423"
+          }
+        },
+        {
+          "client_id": "595753582109-ip5uklk3mdou2srpre89dv36eplq6bcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYgPYd3kCO7bHs8AD0igm49cwMa_LPlLY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595753582109-ip5uklk3mdou2srpre89dv36eplq6bcc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

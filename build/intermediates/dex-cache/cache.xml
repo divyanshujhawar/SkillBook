@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\3415362c9979d1835bde816aee50073bd1663555\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="52f6bcc4bb9657967ad3451a87b88bc907af87ca">
+        <dex dex="C:\Users\DELL\Desktop\skillbook\Skillbook-master\Skillbook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_409b452f97d6df453c74b19380cd040a63aa9c7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\dacd697616a3133e9bf68647c091054db2f1c214\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\DELL\Desktop\skillbook\Skillbook-master\Skillbook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9b04389e4475177332b0ed540c2b22c956c08497\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\DELL\Desktop\skillbook\Skillbook-master\Skillbook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_7af4f9a679ae3e85bc0556c7124216c33d79d431\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="C:\Users\DELL\Desktop\skillbook\Skillbook-master\Skillbook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.11.0_b7e5ef4b0869624ed1b1baf314fe412d266ddd07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\808560472317d2c3583172b0f7b1b05906555966\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\DELL\Desktop\skillbook\Skillbook-master\Skillbook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ef0ac158e3aa152d866b14a1fbfd30a98b53b395\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\2c3489ee4acb04b00bca36523037b1b8417a7f57\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\DELL\Desktop\skillbook\Skillbook-master\Skillbook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f84310dbc297cf9c55854f93e21b15b1f99d902b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\DELL\Desktop\skillbook\Skillbook-master\Skillbook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_45744cb35b9f919d7abb861e94869f7bef54a346\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\5731c1ce348f07446ab946faadd69aac2a57cdfc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="C:\Users\DELL\Desktop\skillbook\Skillbook-master\Skillbook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2ece4d3e846812489908daac0f2f4d87ec7bf7c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\0b0348fcfd77c14467d5e08767c24bd23e86a75d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\DELL\Desktop\skillbook\Skillbook-master\Skillbook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7f93dec500d6b84c59e3ebc45ba9ea87a6708560\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\2ec964c5c7058e38950237d3ae6dd1aff0084b3f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\DELL\Desktop\skillbook\Skillbook-master\Skillbook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e4fa3956a4f7aa282de02af2bb0ff81b3c569f45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\2aa4ac613d2ff9e29a97922642fd634ef6442b9f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="30a4938ea5235ccf532b3e9f04200e68547e36ad">
+        <dex dex="C:\Users\DELL\Desktop\skillbook\Skillbook-master\Skillbook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f15ca993e895dac74ba9ee5b610682c96f1a58a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\Desktop\skillbook\Skillbook-master\Skillbook-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\DELL\Desktop\skillbook\Skillbook-master\Skillbook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e549515b62624b2290c0f9918e827bbcf40fd21d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\DELL\Desktop\skillbook\Skillbook-master\Skillbook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.6.0_08233555a4fa14dcbdc391f86d554878d8f04fff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\fa513acef8cb8252f1f0c84f07409bf125916c4c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="C:\Users\DELL\Desktop\skillbook\Skillbook-master\Skillbook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_65803be94f833e80d6a0983c12fcadae4cb59563\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\cfec3729da52b5771720ade4c8dd2e93e572b185\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\DELL\Desktop\skillbook\Skillbook-master\Skillbook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2d5e523c84e2678a3b01b913d193b6b04317700e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\6c8a3615de005421a28872886a38e530ee1a55d7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="C:\Users\DELL\Desktop\skillbook\Skillbook-master\Skillbook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dae96cb6a8b12b021abbb1bcea25040bbe2d5029\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\86943c5e2019d328ac8da1a4450d08a5883e11af\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\DELL\Desktop\skillbook\Skillbook-master\Skillbook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_adcf87bbc3221b41ddac95aab75d56d2f7f962ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\af4f8fc18a5430c11f3817c1d0304072ea16165a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\DELL\Desktop\skillbook\Skillbook-master\Skillbook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b26cc02194624dc0ce413537bf31355252119d39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\c0564608d60f4def48094757145eef609e6f0794\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\DELL\Desktop\skillbook\Skillbook-master\Skillbook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5b864b07c10f4dd5bf4d140c52d4222ed19f5b48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\3e4bc89c2cf27b42927d1a4c1635af20b16880a1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e3316f4c2a17533c5662c85780bd3ba278afca5">
+        <dex dex="C:\Users\DELL\Desktop\skillbook\Skillbook-master\Skillbook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_888e7ba8b339fc0561fb50ffae067d3b00e29b21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\b06b9371e9b074d5672782eee2e73c1859df0cba\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="C:\Users\DELL\Desktop\skillbook\Skillbook-master\Skillbook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fbddb129e08c5331630c9f03f0f2afed456d9c96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\ad8a6da4c90ba0ca6d2612c4709b7242684dd964\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\DELL\Desktop\skillbook\Skillbook-master\Skillbook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dc41a0899ea410f25e6fec726f38425ab4d4bab8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\6ffaf6804e1ef4cd9f182442c6688b10085d3e6d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\DELL\Desktop\skillbook\Skillbook-master\Skillbook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1630c0998dacba3f9a392ecb043310bbb4e808c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\03b74825cc848d49810f8476a0348e43606f63bf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\DELL\Desktop\skillbook\Skillbook-master\Skillbook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_deb5cd98408f800bfa1535a2b36d1749db38decb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\c8c6aea6db6978f55c155f2acbb6f3e7faee296b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\DELL\Desktop\skillbook\Skillbook-master\Skillbook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_38f58d972242cb26fe443ed3e6d7fe36b2e21703\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\DELL\Desktop\skillbook\Skillbook-master\Skillbook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_cd8433183029a2f0c9cb07ff64cd0d153e805c87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\70faf0ecc8e4a99b6deb7005375fa0f43b8340d0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d17e10fb4175ea7b416cb954a2ec874af303de71">
+        <dex dex="C:\Users\DELL\Desktop\skillbook\Skillbook-master\Skillbook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6bc55e1032d12f9c10199daf4b30fc11566a19d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\80cad2b66685aa696fa5019b9986b9da988475d3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\DELL\Desktop\skillbook\Skillbook-master\Skillbook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f667cd293c68a1da0936cd6e2108e19f7a54ea81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\3874a9a619c09b679918b7e37dd3ec13b308b2b5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e753ea8d0a2dea270da7d96a7d6e9d2e9c10f94">
+        <dex dex="C:\Users\DELL\Desktop\skillbook\Skillbook-master\Skillbook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d244268c724f25f00f60a245b476eee9e7369278\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\71ed1478f5aaa2c97bfbb3bb5eb5e7d510d75806\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Users\DELL\Desktop\skillbook\Skillbook-master\Skillbook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_daa2cc82bb080fba6ee2b8f2f42e77555fc958d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\39c4e86987aad38ad887a183b23f0531f95dc0e1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\DELL\Desktop\skillbook\Skillbook-master\Skillbook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ee62e62725b576112cb83655770224e02be112fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\bf4373935009a3807ffaefd20bdc3e15dee853e2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\DELL\Desktop\skillbook\Skillbook-master\Skillbook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6e0f4f84220a237d88e5609bc279f79ed80cb632\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\48b3cdca8b2ca35d0be3b5caf2b80c1ae2d8d6f1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Users\DELL\Desktop\skillbook\Skillbook-master\Skillbook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_705300f8af40043e2f372abf6dd89204af02d7b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\100a87ff87c4cf268c5ad0390f216e56d6a2e0b0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\DELL\Desktop\skillbook\Skillbook-master\Skillbook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d1c21262de33af9857bba147a9c39316356f42c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\517d75371fe1f1c1d2f5878eb0130056357d99a9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\DELL\Desktop\skillbook\Skillbook-master\Skillbook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_72980e344b8c020d7f39765ef07a49100b743102\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha8\constraint-layout-solver-1.0.0-alpha8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="80c371a4fd5e1b77f0e3a25b171356878543ffdd">
+        <dex dex="C:\Users\DELL\Desktop\skillbook\Skillbook-master\Skillbook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-alpha8_754b03d408735a63095a1c31fc425498be54f425\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\fa0befdcc65a6952299fc4abf8e6d30e6889dd75\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\DELL\Desktop\skillbook\Skillbook-master\Skillbook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0e0835dfc9a9ddbb0757e96685053aadd80102be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\6bbac5199b256e56fff2c364652baa478c989365\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="288913b440a3c61c30aa171095453a605432277a">
+        <dex dex="C:\Users\DELL\Desktop\skillbook\Skillbook-master\Skillbook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_40a99e06ee114a153edb1b3b138b7851df740fc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\2f4ca5a441acfcc107e4e470e8c461797e417589\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\DELL\Desktop\skillbook\Skillbook-master\Skillbook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7b9d8d7e85f1cd1f80fddc850a774797a5328c9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\Desktop\skillbook\Skillbook-master\Skillbook-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="90b8bdb2593d7e0d4a62970aa3f5451a70540d93">
+        <dex dex="C:\Users\DELL\Desktop\skillbook\Skillbook-master\Skillbook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e6a48f54a5b2736d6d3c7dade220b033b36241e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\b27aa473612ebc8b4b2c633c756f6c14a525f383\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\DELL\Desktop\skillbook\Skillbook-master\Skillbook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7a9aa5e119864c728e1464bd09045e74bd6686ac\classes.dex" />
+    </item>
+
+</items>

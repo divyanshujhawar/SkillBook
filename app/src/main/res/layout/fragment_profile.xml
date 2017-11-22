@@ -1,0 +1,156 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back33"
+    android:padding="10dp"
+    tools:context="com.project1.softwaresoluitons.xyz.profile_frag">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ScrollView
+        android:id="@+id/scroll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+
+            >
+
+            <RelativeLayout
+                android:id="@+id/profile"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center">
+
+                <ImageView
+                    android:id="@+id/imag"
+                    android:layout_width="165dp"
+                    android:layout_height="165dp"
+                    android:layout_centerHorizontal="true"
+
+                    android:src="@drawable/profile_icon" />
+
+                <ImageView
+                    android:id="@+id/pencil"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignTop="@+id/imag"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/ic_mode_edit_white_36dp" />
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:paddingTop="10dp"
+                android:text="Name"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="#000000"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/name1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:gravity="center_vertical"
+                android:drawableRight="@drawable/ic_account_box_white_36dp"
+                android:hint="Name"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#BDBDBD" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:background="@color/colorPrimary" />
+
+            <TextView
+                android:id="@+id/location"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:paddingTop="10dp"
+                android:text="Location"
+                android:textColor="#000000"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/location1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:gravity="center_vertical"
+                android:drawableRight="@drawable/ic_edit_location_white_36dp"
+                android:hint="Location"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#BDBDBD"/>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:background="@color/colorPrimary" />
+
+
+            <TextView
+                android:id="@+id/mobile"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:paddingTop="10dp"
+                android:text="Mobile"
+                android:textColor="#000000"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/mobile1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:drawableRight="@drawable/ic_phone_white_36dp"
+                android:hint="Mobile"
+                android:gravity="center_vertical"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#BDBDBD" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:background="@color/colorPrimary" />
+
+            <TextView
+                android:id="@+id/email"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:paddingTop="10dp"
+                android:text="E-Mail"
+                android:textColor="#000000"
+                android:textStyle="bold" />
+
+            <TextView
+                android:gravity="center_vertical"
+                android:id="@+id/email1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:drawableRight="@drawable/ic_email_white_36dp"
+                android:hint="E-Mail"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#BDBDBD" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:background="@color/colorPrimary" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

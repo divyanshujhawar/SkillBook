@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Skillbook</string>
+    <array name="tabs">
+        <item>Profile</item>
+        <item>Created\nTrainings</item>
+        <item>Registered\nTrainings</item>
+    </array>
+
+    <array name="notifications">
+        <item>Trainer\nNotifications</item>
+        <item>Learner\nNotifications</item>
+    </array>
+
+    <array name="availability">
+        <item>Weekdays</item>
+        <item>Weekends</item>
+        <item>Daily</item>
+    </array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="email_address"><b>Email</b></string>
+
+    <string name="action_add_favourite">Add to Favourites</string>
+    <string name="action_play_next">Play Next</string>
+    <string name="backdrop_title">LOVE MUSIC</string>
+    <string name="backdrop_subtitle">This season top 20 albums</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
